@@ -1,0 +1,6 @@
+Javacript
+String.fromCodePoint(parseInt ("1F923", 16))
+
+Html
+1F4A9 = unicode
+<span>{'\u{1F4A9}'}</span> => <span>💩</span>
